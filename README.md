@@ -40,9 +40,10 @@ Here are some ideas to get you started:
 
 ![Apurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=anath-git&theme=radical&show_icons=true&custom_title=Apurba's%20GitHub%20Stats&hide_border=true&count_private=true)
 -->
-
+<!--
+Moved below
 ![Apurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=anath-git&theme=radical&show_icons=true&custom_title=Apurba's%20GitHub%20Stats&count_private=true&border_color=ffcc00&bg_color=00000000)
-
+-->
 
 
 
@@ -84,17 +85,15 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white)<br/>
 ![FIX Protocol](https://img.shields.io/badge/FIX%20Protocol-%232D86FF.svg?style=plastic&logo=finance&logoColor=white)<br/>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anath-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anath-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anath-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Apurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=anath-git&theme=radical&show_icons=true&custom_title=Apurba's%20GitHub%20Stats&count_private=true&border_color=ffcc00&bg_color=00000000)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anath-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anath-git&theme=radical&no-frame=false&no-bg=true&margin-w=4&border_color=ffcc00&bg_color=00000000)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anath-git&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
