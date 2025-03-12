@@ -14,7 +14,7 @@
 
 <table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
   <tr>
-    <td>🌐 Socials:</td>
+    <td><span style="color: yellow !important;">🌐 Socials:</span></td>
   </tr>
 </table>
 
@@ -47,7 +47,7 @@
 
 <table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
   <tr>
-    <td>📊 GitHub Stats:</td>
+    <td><span style="color: yellow !important;">📊 GitHub Stats:</span></td>
   </tr>
 </table>
 
@@ -57,7 +57,7 @@
 
 <table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
   <tr>
-    <td>🏆 GitHub Trophies</td>
+    <td><span style="color: yellow !important;">🏆 GitHub Trophies</span></td>
   </tr>
 </table>
 
