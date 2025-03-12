@@ -1,3 +1,21 @@
+<style>
+body {
+  background-image: url("https://images.unsplash.com/photo-1500462985516-075c38ca589a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJsdWUlMjB3YXZlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"); /* Replace with your wave image URL */
+  background-size: cover; /* Cover the entire area */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  color: white; /* Adjust text color for readability against the background */
+}
+
+.container {
+  /*Optional - adds a slightly transparent white background behind the content to improve readability*/
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+}
+</style>
+
+<div class="container">
 <svg width="100%" height="200">
   <rect width="100%" height="200" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
 </svg>
@@ -53,3 +71,4 @@ Your Content Here
 
 [![](https://visitcount.itsvg.in/api?id=anath-git&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
