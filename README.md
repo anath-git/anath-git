@@ -1,9 +1,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Apurba+Nath!+Welcome!&font=Fira+Code&size=28&pause=250&width=600&height=50&color=1589F0" alt="Typing SVG" />
 </div>
-
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 <hr style="border: 2px solid #f03c15;">
-
+<code style="color : name_color">text</code>
 <h2 style="color: #1589F0;">💡 About Me</h2>
 <div align="left" style="color: #1589F0;">
   👨‍💻 Financial industry software engineer resolving production issues for traders and exchanges, sharing technical expertise and solutions.<br>
