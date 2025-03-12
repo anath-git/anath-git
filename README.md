@@ -1,3 +1,9 @@
+<table style="background-color:#f0f0f0;">
+  <tr>
+    <td>Your content here</td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Apurba+Nath!+Welcome!&font=Fira+Code&size=28&pause=250&width=600&height=50&color=61ce70" alt="Typing SVG" />
 </div>
