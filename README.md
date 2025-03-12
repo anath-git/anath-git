@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Apurba+Nath!+Welcome!&font=Fira+Code&size=28&pause=250&width=600&height=50&color=c5f015" alt="Typing SVG" />
 </div>
 
-<div style="border-bottom: 3px solid #f03c15;"></div> <!-- Red Border -->
+<hr style="border: 2px solid #f03c15;">
 
 ## 💡 About Me
 <div align="left">
@@ -12,16 +12,20 @@
   🏛️ Exploring technologies to enhance financial production support.
 </div>
 
-<div style="background-color:#1589F0; padding: 5px; color: white; font-weight: bold; margin-top: 10px; margin-bottom: 10px;"> <!-- Blue Banner -->
-  🌐 Socials:
-</div>
+<table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
+  <tr>
+    <td>🌐 Socials:</td>
+  </tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apurba.nath@mail.com)
 
-<div style="background-color:#1589F0; padding: 5px; color: white; font-weight: bold; margin-top: 10px; margin-bottom: 10px;"> <!-- Blue Banner -->
-  💻 Tech Stack:
-</div>
+<table style="width:100%; background-color:#f03c15; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
+  <tr>
+    <td>💻 Tech Stack:</td>
+  </tr>
+</table>
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=yellow)
 ![Perl](https://img.shields.io/badge/perl-%23536895.svg?style=flat-square&logo=perl&logoColor=white)
@@ -39,24 +43,27 @@
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white)<br/>
 ![FIX Protocol](https://img.shields.io/badge/FIX%20Protocol-%232D86FF.svg?style=flat-square&logo=finance&logoColor=white)<br/>
 
-<div style="border-bottom: 3px solid #f03c15;"></div> <!-- Red Border -->
+<hr style="border: 2px solid #f03c15;">
 
-<div style="background-color:#1589F0; padding: 5px; color: white; font-weight: bold; margin-top: 10px; margin-bottom: 10px;"> <!-- Blue Banner -->
-  📊 GitHub Stats:
-</div>
+<table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
+  <tr>
+    <td>📊 GitHub Stats:</td>
+  </tr>
+</table>
 
 ![Apurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=anath-git&theme=dark&show_icons=true&custom_title=Apurba's%20GitHub%20Stats&count_private=true&border_color=61ce70&bg_color=0d1117)
 
-<div style="border-bottom: 3px solid #f03c15;"></div> <!-- Red Border -->
+<hr style="border: 2px solid #f03c15;">
 
-<div style="background-color:#1589F0; padding: 5px; color: white; font-weight: bold; margin-top: 10px; margin-bottom: 10px;"> <!-- Blue Banner -->
-  🏆 GitHub Trophies
-</div>
+<table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
+  <tr>
+    <td>🏆 GitHub Trophies</td>
+  </tr>
+</table>
 
 ![](https://github-profile-trophy.vercel.app/?username=anath-git&theme=dark&no-frame=false&no-bg=true&margin-w=4&border_color=61ce70)
 
-<div style="border-bottom: 3px solid #f03c15;"></div> <!-- Red Border -->
+<hr style="border: 2px solid #f03c15;">
 
 [![](https://visitcount.itsvg.in/api?id=anath-git&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
