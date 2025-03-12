@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurba-nath-90b49945/)
 [![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apurba.nath@gmail.com)
 
 <table style="width:100%; background-color:#f03c15; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
