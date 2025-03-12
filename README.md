@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url("https://images.unsplash.com/photo-1500462985516-075c38ca589a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJsdWUlMjB3YXZlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"); /* Replace with your wave image URL */
+  background-image: url("[https://images.unsplash.com/photo-1500462985516-075c38ca589a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJsdWUlMjB3YXZlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60](https://github.com/madelinekinnaird/Gerrymandr/blob/master/images/az1.PNG?raw=true)"); /* Replace with your wave image URL */
   background-size: cover; /* Cover the entire area */
   background-repeat: no-repeat; /* Prevent the image from repeating */
   color: white; /* Adjust text color for readability against the background */
