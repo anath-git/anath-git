@@ -1,9 +1,8 @@
-<table style="background-color:#f0f0f0;">
-  <tr>
-    <td>Your content here</td>
-  </tr>
-</table>
+<svg width="100%" height="200">
+  <rect width="100%" height="200" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
+</svg>
 
+Your Content Here
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Apurba+Nath!+Welcome!&font=Fira+Code&size=28&pause=250&width=600&height=50&color=61ce70" alt="Typing SVG" />
 </div>
@@ -13,7 +12,7 @@
 ## 💡 About Me
 
 <div align="left">
-  👨‍💻 FFinancial industry software engineer resolving production issues for traders and exchanges, sharing technical expertise and solutions.<br>
+  👨‍💻 Financial industry software engineer resolving production issues for traders and exchanges, sharing technical expertise and solutions.<br>
   📜 Computer Science graduate of Montclair State University, New Jersey.<br>
   🤖 Sharing my insights as I navigate the dynamic fields of artificial intelligence and automation.<br>
   🏛️ Exploring technologies to enhance financial production support.
