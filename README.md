@@ -5,8 +5,9 @@
 <br> <!-- Add a line break for visual spacing -->
 
 ## 👋 About Me
+Financial Software Engineer | Front Office Production Support
+Dedicated to providing support for traders and exchanges, resolving critical production issues from inception to resolution in a fast-paced environment. Passionate about ensuring the stability and performance of trading systems and understanding the impact of technology on trading. Exploring AI and Automation solutions to revolutionize/enhance front office production support by predicting, preventing problems, and maximizing trading efficiency. Sharing technical insights/expertise and fostering continuous improvement/driving innovation.
 
-I'm a passionate software engineer and full-stack developer driven by a desire to create innovative and user-friendly applications. My expertise lies in building robust and scalable solutions using modern web technologies.
 
 <br> <!-- Add a line break for visual spacing -->
 
