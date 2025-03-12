@@ -15,10 +15,10 @@ I'm a passionate software engineer and full-stack developer driven by a desire t
 <table>
   <tr>
     <td align="center">
-      <a href="your LinkedIn profile link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="[your LinkedIn profile link](https://www.linkedin.com/in/apurba-nath-90b49945/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </td>
     <td align="center">
-      <a href="mailto:your email address"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"></a>
+      <a href="mailto:apurba.nath@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"></a>
     </td>
     <td align="center">
       <a href="https://anath-git.github.io/my-skills-website/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=globe&logoColor=white"></a>
