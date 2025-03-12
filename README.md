@@ -4,8 +4,8 @@
 
 <hr style="border: 2px solid #f03c15;">
 
-## 💡 About Me
-<div align="left">
+<h2 style="color: #1589F0;">💡 About Me</h2>
+<div align="left" style="color: #1589F0;">
   👨‍💻 Financial industry software engineer resolving production issues for traders and exchanges, sharing technical expertise and solutions.<br>
   📜 Computer Science graduate of Montclair State University, New Jersey.<br>
   🤖 Sharing my insights as I navigate the dynamic fields of artificial intelligence and automation.<br>
@@ -14,16 +14,16 @@
 
 <table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
   <tr>
-    <td><span style="color: yellow !important;">🌐 Socials:</span></td>
+    <td style="color: #1589F0;"><span style="color: yellow !important;">🌐 Socials:</span></td>
   </tr>
 </table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-[![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apurba.nath@mail.com)
+[![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apurba.nath@gmail.com)
 
 <table style="width:100%; background-color:#f03c15; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
   <tr>
-    <td>💻 Tech Stack:</td>
+    <td style="color: #1589F0;">💻 Tech Stack:</td>
   </tr>
 </table>
 
@@ -47,7 +47,7 @@
 
 <table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
   <tr>
-    <td><span style="color: yellow !important;">📊 GitHub Stats:</span></td>
+    <td style="color: #1589F0;"><span style="color: yellow !important;">📊 GitHub Stats:</span></td>
   </tr>
 </table>
 
@@ -57,7 +57,7 @@
 
 <table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
   <tr>
-    <td><span style="color: yellow !important;">🏆 GitHub Trophies</span></td>
+    <td style="color: #1589F0;"><span style="color: yellow !important;">🏆 GitHub Trophies</span></td>
   </tr>
 </table>
 
