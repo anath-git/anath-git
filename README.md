@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Apurba+Nath!+Welcome!&font=Fira+Code&size=28&pause=250&width=600&height=50&color=c5f015" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Apurba+Nath!+Welcome!&font=Fira+Code&size=28&pause=250&width=600&height=50&color=1589F0" alt="Typing SVG" />
 </div>
 
 <hr style="border: 2px solid #f03c15;">
@@ -10,7 +10,7 @@
   📜 Computer Science graduate of Montclair State University, New Jersey.<br>
   🤖 Sharing my insights as I navigate the dynamic fields of artificial intelligence and automation.<br>
   🏛️ Exploring technologies to enhance financial production support.
-</div>
+</div><br/>
 
 <table style="width:100%; background-color:#1589F0; color:white; padding:5px; font-weight:bold; margin-top:10px; margin-bottom:10px;">
   <tr>
