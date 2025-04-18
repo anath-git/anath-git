@@ -22,7 +22,7 @@ Dedicated to providing support for traders and exchanges, resolving critical pro
       <a href="mailto:apurba.nath@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"></a>
     </td>
     <td align="center">
-      <a href="https://anath-git.github.io/my-skills-website/"><img src="https://img.shields.io/badge/BIO-000?style=for-the-badge&logo=globe&logoColor=white"></a>
+      <a href="https://anath-git.github.io/my-skills-website/"><img src="https://img.shields.io/badge/My Profile-74aa9c?style=for-the-badge&logo=globe&logoColor=white"></a>
     </td>
   </tr>
 </table>
